@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456338071010",
+    "project_id": "authentication-hn-6f7dc",
+    "storage_bucket": "authentication-hn-6f7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456338071010:android:733ba2be44094a260dadbb",
+        "android_client_info": {
+          "package_name": "com.example.kiem_tra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGZabK8yaXNE7Q_Yldpo8PBvQESE8V9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
